@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "p9",
+    "description": "p5_descripcion",
+    "code": "p5_code",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "p5_categoria",
+    "thumbnails": [
+      "p5_imagen1.jpg",
+      "p4_imagen2.jpg"
+    ]
+  }
+]
